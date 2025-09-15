@@ -1,8 +1,8 @@
 a {
-  color: #fff;
+  color: var(--untitled-ui--gray200);
 }
 a:hover {
-  color: #ccc;
+  color: #fff;
 }
 
 :root {
