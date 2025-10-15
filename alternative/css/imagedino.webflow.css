@@ -6126,8 +6126,8 @@
   }
 
   .uui-heroheader04_image.uui-heroheader04_image-alternative {
-    width: 33rem;
-    min-width: 33rem;
+    width: 31rem;
+    min-width: 31rem;
   }
 
   .uui-heroheader04_image-wrapper {
@@ -7266,6 +7266,10 @@
     padding: .125rem .5rem;
   }
 
+  .uui-text-size-medium-11 {
+    font-size: 1rem;
+  }
+
   .uui-page-padding-12 {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -7322,6 +7326,10 @@
     font-size: 2.25rem;
   }
 
+  .uui-pricing11_row-lead-text {
+    font-size: 1rem;
+  }
+
   .uui-page-padding-13 {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -7334,10 +7342,6 @@
   .uui-heading-medium-11 {
     font-size: 1.75rem;
     line-height: 1.4;
-  }
-
-  .uui-button-11 {
-    font-size: 1rem;
   }
 
   .uui-button-11:hover {
@@ -7392,7 +7396,7 @@
   }
 
   .uui-heading-xxsmall-9 {
-    font-size: 1.125rem;
+    font-size: 1rem;
   }
 
   .uui-pricing11_component-2 {
@@ -7401,6 +7405,18 @@
 
   .uui-pricing11_price-2 {
     font-size: 2.25rem;
+  }
+
+  .text-block-9 {
+    font-size: .9rem;
+  }
+
+  .image-6 {
+    max-width: 100%;
+  }
+
+  .bold-text, .bold-text-2 {
+    font-size: 1rem;
   }
 }
 
