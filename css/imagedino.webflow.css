@@ -1,4 +1,5 @@
 :root {
+  --untitled-ui--gray200: #eaecf0;
   --untitled-ui--gray700: #344054;
   --untitled-ui--primary600: #163bf5;
   --untitled-ui--white: white;
@@ -13,7 +14,6 @@
   --untitled-ui--gray800: #1d2939;
   --untitled-ui--gray100: #f2f4f7;
   --untitled-ui--gray900: #101828;
-  --untitled-ui--gray200: #eaecf0;
   --untitled-ui--gray500: #667085;
   --untitled-ui--primary500: #9e77ed;
   --untitled-ui--primary50-2: #f9f5ff;
@@ -33,6 +33,11 @@
   grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
   display: grid;
+}
+
+a {
+  color: var(--untitled-ui--gray200);
+  text-decoration: underline;
 }
 
 .uui-navbar07_menu-button {
