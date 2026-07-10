@@ -501,7 +501,7 @@ a {
   color: var(--untitled-ui--white);
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-weight: 800;
   line-height: 1.2;
 }
@@ -667,11 +667,11 @@ a {
 }
 
 .uui-testimonial10_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -918,13 +918,13 @@ a {
 
 .accordion-icon_component {
   border: 2px solid var(--untitled-ui--gray400);
+  width: 1.5rem;
+  height: 1.5rem;
   color: var(--untitled-ui--gray400);
   border-radius: 50%;
   justify-content: center;
   align-self: flex-start;
   align-items: center;
-  width: 1.5rem;
-  height: 1.5rem;
   display: flex;
   position: relative;
 }
@@ -1082,9 +1082,9 @@ a {
 }
 
 .uui-text-size-large-2.cta-text {
+  max-width: 38rem;
   color: var(--untitled-ui--gray800);
   text-align: center;
-  max-width: 38rem;
   margin-left: auto;
   margin-right: auto;
   font-style: normal;
@@ -1203,13 +1203,13 @@ a {
 
 .accordion-icon_component-2 {
   border: 2px solid var(--untitled-ui--white);
+  width: 1.5rem;
+  height: 1.5rem;
   color: var(--untitled-ui--white);
   border-radius: 50%;
   justify-content: center;
   align-self: flex-start;
   align-items: center;
-  width: 1.5rem;
-  height: 1.5rem;
   display: flex;
   position: relative;
 }
@@ -1599,6 +1599,10 @@ a {
   padding: 0%;
 }
 
+.uui-layout48_content-2.feature-hidden {
+  display: none;
+}
+
 .uui-layout48_component-2 {
   grid-column-gap: 4rem;
   grid-row-gap: 4rem;
@@ -1642,7 +1646,7 @@ a {
 }
 
 .ft-text-wrapper.ft-youtube {
-  background-color: #f16124;
+  background-color: #f6480a;
 }
 
 .ft-text-wrapper.ft-whatsapp {
@@ -1667,6 +1671,14 @@ a {
 
 .ft-text-wrapper.ft-designer {
   background-color: #fb9c4d;
+}
+
+.ft-text-wrapper.ft-ctr {
+  background-color: #b5a790;
+}
+
+.ft-text-wrapper.ft-url {
+  background-color: #8971ad;
 }
 
 .div-block {
@@ -1707,12 +1719,12 @@ a {
 }
 
 .icon-featured-square-large {
+  width: 5rem;
+  height: 5rem;
   color: var(--untitled-ui--white);
   border-radius: .625rem;
   justify-content: center;
   align-items: center;
-  width: 5rem;
-  height: 5rem;
   display: flex;
 }
 
@@ -1909,13 +1921,13 @@ a {
 
 .uui-testimonial11_arrow {
   border: 1px solid var(--untitled-ui--gray200);
+  width: 3rem;
+  height: 3rem;
   color: var(--untitled-ui--gray500);
   background-color: #fff;
   border-radius: 100%;
   justify-content: center;
   align-items: center;
-  width: 3rem;
-  height: 3rem;
   transition: all .3s;
   display: flex;
   inset: auto 0% 0% auto;
@@ -1981,11 +1993,11 @@ a {
 }
 
 .uui-testimonial11_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -2063,11 +2075,11 @@ a {
 }
 
 .uui-testimonial08_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -2118,13 +2130,13 @@ a {
 
 .uui-testimonial12_arrow {
   border: 1px solid var(--untitled-ui--gray200);
+  width: 3rem;
+  height: 3rem;
   color: var(--untitled-ui--gray500);
   background-color: #fff;
   border-radius: 100%;
   justify-content: center;
   align-items: center;
-  width: 3rem;
-  height: 3rem;
   transition: all .3s;
   display: flex;
   inset: auto 0% 0% auto;
@@ -2165,11 +2177,11 @@ a {
 }
 
 .uui-testimonial12_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -2363,12 +2375,12 @@ a {
 .uui-icon-featured-outline-large {
   border: .5rem solid var(--untitled-ui--primary50-2);
   background-color: var(--untitled-ui--primary100);
+  width: 3.5rem;
+  height: 3.5rem;
   color: var(--untitled-ui--primary600);
   border-radius: 100%;
   justify-content: center;
   align-items: center;
-  width: 3.5rem;
-  height: 3.5rem;
   display: flex;
 }
 
@@ -2440,11 +2452,11 @@ a {
 }
 
 .uui-testimonial16_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -2659,13 +2671,13 @@ a {
 
 .uui-testimonial15_arrow {
   border: 1px solid var(--untitled-ui--gray200);
+  width: 3rem;
+  height: 3rem;
   color: var(--untitled-ui--gray500);
   background-color: #fff;
   border-radius: 100%;
   justify-content: center;
   align-items: center;
-  width: 3rem;
-  height: 3rem;
   transition: all .3s;
   display: flex;
   inset: auto 0% 0% auto;
@@ -2731,11 +2743,11 @@ a {
 }
 
 .uui-testimonial15_rating-icon {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -2858,11 +2870,11 @@ a {
 }
 
 .uui-testimonial16_rating-icon-2 {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -3086,13 +3098,13 @@ a {
 
 .accordion-icon_component-3 {
   border: 2px solid var(--untitled-ui--gray400);
+  width: 1.5rem;
+  height: 1.5rem;
   color: var(--untitled-ui--gray400);
   border-radius: 50%;
   justify-content: center;
   align-self: flex-start;
   align-items: center;
-  width: 1.5rem;
-  height: 1.5rem;
   display: flex;
   position: relative;
 }
@@ -3267,11 +3279,11 @@ a {
 }
 
 .uui-testimonial10_rating-icon-2 {
+  width: 1.25rem;
+  height: 1.25rem;
   color: var(--untitled-ui--warning300);
   justify-content: center;
   align-items: center;
-  width: 1.25rem;
-  height: 1.25rem;
   margin-right: .25rem;
   display: flex;
 }
@@ -4217,10 +4229,10 @@ a {
 .uui-form_input {
   border: 1px solid var(--untitled-ui--gray300);
   background-color: var(--untitled-ui--white);
-  color: var(--untitled-ui--gray900);
-  border-radius: .5rem;
   height: auto;
   min-height: 2.75rem;
+  color: var(--untitled-ui--gray900);
+  border-radius: .5rem;
   margin-bottom: 0;
   padding: .5rem .875rem;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -5239,6 +5251,23 @@ a {
   display: block;
 }
 
+.text-span-6 {
+  color: var(--untitled-ui--warning300);
+}
+
+.italic-text-2 {
+  color: #fccc20;
+}
+
+.text-span-7 {
+  color: var(--untitled-ui--warning300);
+  font-style: italic;
+}
+
+.text-span-8 {
+  color: var(--violet);
+}
+
 @media screen and (max-width: 991px) {
   .menu-icon_line-bottom {
     background-color: var(--untitled-ui--gray700);
@@ -5327,8 +5356,8 @@ a {
   }
 
   .uui-navbar07_link {
-    color: var(--untitled-ui--gray900);
     width: 100%;
+    color: var(--untitled-ui--gray900);
     padding: .75rem 0;
     font-size: 1.125rem;
   }
@@ -5357,10 +5386,10 @@ a {
   }
 
   .uui-navbar07_dropdown-list.w--open {
+    width: auto;
     box-shadow: none;
     border-style: none;
     border-color: #0000;
-    width: auto;
     padding: 0;
   }
 
@@ -5746,8 +5775,8 @@ a {
   }
 
   .uui-navbar07_link-2 {
-    color: var(--untitled-ui--gray900);
     width: 100%;
+    color: var(--untitled-ui--gray900);
     padding: .75rem 0;
     font-size: 1.125rem;
   }
@@ -5776,10 +5805,10 @@ a {
   }
 
   .uui-navbar07_dropdown-list-2.w--open {
+    width: auto;
     box-shadow: none;
     border-style: none;
     border-color: #0000;
-    width: auto;
     padding: 0;
   }
 
@@ -5913,8 +5942,8 @@ a {
   }
 
   .uui-navbar08_link {
-    color: var(--untitled-ui--gray900);
     width: 100%;
+    color: var(--untitled-ui--gray900);
     padding: .75rem 0;
     font-size: 1.125rem;
   }
@@ -5944,10 +5973,10 @@ a {
   }
 
   .uui-navbar08_dropdown-list.w--open {
+    width: auto;
     box-shadow: none;
     border-style: none;
     border-color: #0000;
-    width: auto;
     padding: 0;
   }
 
